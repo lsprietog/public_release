@@ -3,6 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lsprietog/public_release/blob/main/demo_colab.ipynb)
+[![Run on Your Data](https://img.shields.io/badge/Colab-Run%20on%20Your%20Data-orange?logo=google-colab)](https://colab.research.google.com/github/lsprietog/public_release/blob/main/inference_colab.ipynb)
 
 This repository hosts the source code and implementation details for the paper:
 
