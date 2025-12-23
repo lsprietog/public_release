@@ -1,4 +1,4 @@
-# Machine Learning for Diffusion MRI Analysis (IVIM-DKI)
+# dMRI-IVIM-ML-Toolkit: Machine Learning for Diffusion MRI Analysis
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -17,7 +17,7 @@ This repository hosts the source code and implementation details for the paper:
 
 Diffusion MRI analysis, particularly Intravoxel Incoherent Motion (IVIM) and Diffusion Kurtosis Imaging (DKI), often relies on non-linear least squares fitting. While standard, this approach can be computationally expensive and sensitive to noise, especially for parameters like pseudo-diffusion ($D^*$) and perfusion fraction ($f$).
 
-This project introduces a Machine Learning framework (utilizing Random Forest, Extra Trees, and MLP) to estimate these parameters directly from the signal attenuation curve.
+This project introduces a **Python-based Machine Learning framework** (utilizing Random Forest, Extra Trees, and MLP) to estimate these parameters directly from the signal attenuation curve. It serves as a comprehensive toolkit for researchers looking to implement **IVIM Machine Learning** workflows in their **Python** pipelines.
 
 ### Key Findings
 
