@@ -2,7 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/demo_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lsprietog/public_release/blob/main/demo_colab.ipynb)
 
 This repository hosts the source code and implementation details for the paper:
 
@@ -32,8 +32,8 @@ This project introduces a Machine Learning framework (utilizing Random Forest, E
 To set up the environment, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/lsprietog/public_release.git
+cd public_release
 pip install -r requirements.txt
 ```
 
