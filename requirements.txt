@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+pydicom
+nibabel
+tqdm
+ipywidgets
+pandas
+seaborn
+scikit-learn
+xgboost
+joblib
