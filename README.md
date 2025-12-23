@@ -10,7 +10,7 @@ This repository hosts the source code and implementation details for the paper:
 *Prieto-González LS, Agulles-Pedrós L.*  
 *Journal of Medical Physics, 2024.*
 
-[Read the full paper here](https://journals.lww.com/jmpol/fulltext/2024/49020/exploring_the_potential_of_machine_learning.2.aspx)
+[Read the full paper here](https://pmc.ncbi.nlm.nih.gov/articles/PMC11309135/)
 
 ## Project Overview
 
@@ -85,7 +85,7 @@ If you find this repository useful for your research, please consider citing our
   year={2024},
   publisher={Wolters Kluwer - Medknow},
   doi={10.4103/jmp.jmp_10_24},
-  url={https://journals.lww.com/jmpol/fulltext/2024/49020/exploring_the_potential_of_machine_learning.2.aspx}
+  url={https://pmc.ncbi.nlm.nih.gov/articles/PMC11309135/}
 }
 ```
 
