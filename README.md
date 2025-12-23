@@ -24,7 +24,7 @@ This project introduces a Machine Learning framework (utilizing Random Forest, E
 *   **Noise Robustness:** The algorithms demonstrate improved stability in parameter estimation across varying SNR levels compared to conventional fitting.
 *   **Versatility:** Validated across different anatomical regions (Prostate, Brain, Head & Neck) and species.
 
-![Parameter Map Comparison](https://via.placeholder.com/800x300?text=Figure+7:+Comparison+of+Standard+Fitting+vs+ML+Estimation)
+![Parameter Map Comparison](image_p10_6.png)
 *Figure: Visual comparison of parameter maps derived from standard fitting versus the proposed ML estimation.*
 
 ## Installation
